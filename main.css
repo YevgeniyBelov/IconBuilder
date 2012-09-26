@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	display: block;
+	}
+
+.big_pixel{
+	width: 29px;
+	height: 29px;
+	padding: 0px;
+	position: relative;
+	background: #000000;
+	cursor: pointer;
+	float: left;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+#BigCanvas{
+	width: 480px;
+	height: 480px;
+	display: block;
+	position: absolute;
+	}
